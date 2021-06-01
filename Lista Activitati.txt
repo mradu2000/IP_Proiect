@@ -3,6 +3,11 @@
 Activitati membri:
 
 	Gîza David-Noel:
+	
+-SRS
+-Documentatie
+-Implementare Proxy
+-Design interfata grafica
 
 	Jardă Maria-Elisabeta:
 
@@ -13,5 +18,11 @@ Activitati membri:
 - Comentare cod.
 
 	Moroșanu Radu-George:
+	
+-Diagrame UML
+-Tratare erori
 
 	Țiganaș Ștefan-Gabriel:
+	
+-Testarea unitatilor
+

@@ -1,0 +1,17 @@
+	Aplicatie de tip food delivery
+
+Activitati membri:
+
+	Gîza David-Noel:
+
+	Jardă Maria-Elisabeta:
+
+- Help;
+- Implementare șablon Proxy;
+- Cod functionalitate interfață grafică  (Metode din Form1.cs);
+- Cod interfață IManagerProduse;
+- Comentare cod.
+
+	Moroșanu Radu-George:
+
+	Țiganaș Ștefan-Gabriel:
